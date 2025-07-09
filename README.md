@@ -60,7 +60,7 @@ Python がインストールされている環境であれば、OS を問わず�
 例えば、出力先フォルダとして `C:\MyOrganizedPhotos` を選択した場合、ファイルは以下のような構造でコピーされます。
 
 
-
+```
 C:\MyOrganizedPhotos
 ├── 2023
 │ ├── 01
@@ -77,7 +77,7 @@ C:\MyOrganizedPhotos
 └── dateunknown
 ├── old_photo_1998.jpg
 └── no_date_video.mp4
-
+```
 ---
 
 ## 📄 ログファイルの読み方
