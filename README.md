@@ -7,7 +7,7 @@ Google Photo Takeout Organizer は、Google Takeout からエクスポートさ�
 ## ✨ 特徴
 
 * **元のデータを保護**: 整理はファイルのコピーによって行われるため、元の Google Takeout データは変更されず、安全に保たれます。
-* **包括的な処理**: Google Takeout のルートフォルダ直下にある全てのフォルダ（既存の年フォルダを含む）と、ルート直下のメディアファイルを整理対象とします。
+* **包括的な処理**: Google Takeout のGooleフォトのフォルダ（例：C:￥Download\takeout-XXX\Takeout\Googleフォト）直下にある全てのフォルダ（既存の年フォルダを含む）と、ルート直下のメディアファイルを整理対象とします。
 * **賢い日時特定**:
     * **Google Photos JSON メタデータ**を最優先で参照し、正確な撮影日時を取得します。
     * JSON ファイルが見つからない、または日時情報が不完全な場合は、画像ファイル内の **EXIF 情報**から撮影日時を抽出します。
@@ -75,8 +75,8 @@ C:\MyOrganizedPhotos
 │ └── 04
 │ └── movie_20240410.mov
 └── dateunknown
-├── old_photo_1998.jpg
-└── no_date_video.mp4
+　├── old_photo_1998.jpg
+　└── no_date_video.mp4
 ```
 ---
 
