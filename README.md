@@ -113,6 +113,10 @@ YYYY-MM-DD HH:MM:SS,ms - LEVEL - MESSAGE
 ログファイルを確認することで、どのファイルがどの方法で日時が特定され、どこにコピーされたか、あるいはなぜスキップされたり失敗したりしたかなどを把握できます。
 
 ---
+## 関連動画
+
+* **GoogleTakeoutダウンロード**: [Googleフォト容量オーバー必見！15GB無料枠を賢く解放！Google　Takeoutダウンロードからデータ整理、再活用、容量の空け方まで完全攻略ガイド](https://youtu.be/ID1TQpu2Gj8_id_1)
+* **基本的な使い方**: [【神ツール降臨】Google Takeoutデータを爆速整理！　Google Photo Takeout Organizer　整理後のデータ活用法からGoogleフォトAI検索術まで完全ガイド！](https://youtu.be/eP3ssksn3Yw_id_2)
 
 ## ⚠️ 注意事項
 
@@ -121,4 +125,8 @@ YYYY-MM-DD HH:MM:SS,ms - LEVEL - MESSAGE
 * **Google フォトが撮影日時を認識できなかったファイル（例: アップロード時に日時情報が失われたファイル）の場合、そのファイルの JSON メタデータには、Google フォトにアップロードされた日時（多くの場合、Google Takeout のダウンロードを開始した日や Takeout ファイルが生成された日時に近い）が記録されます。** この日時がGoogleフォトのサービス開始日（2015年5月28日）以降であれば、`dateunknown`フォルダには整理されませんが、**元の正確な撮影日時とは異なるため、意図しない年/月フォルダに整理される可能性があります。**
 * ログファイル（`google_takeout_organizer.log`）は、出力先フォルダの直下に作成されます。処理の進行状況やエラーの詳細は、このファイルをテキストエディタで開いてご確認ください。
 
+## ▶️ 関連動画
+
+* **GoogleTakeoutダウンロード**: [Googleフォト容量オーバー必見！15GB無料枠を賢く解放！Google　Takeoutダウンロードからデータ整理、再活用、容量の空け方まで完全攻略ガイド](https://youtu.be/ID1TQpu2Gj8_id_1)
+* **基本的な使い方**: [【神ツール降臨】Google Takeoutデータを爆速整理！　Google Photo Takeout Organizer　整理後のデータ活用法からGoogleフォトAI検索術まで完全ガイド！](https://youtu.be/eP3ssksn3Yw_id_2)
 
