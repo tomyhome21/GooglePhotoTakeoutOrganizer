@@ -2,9 +2,9 @@
 
 # Google Photo Takeout Organizer
 
-\<p align="center"\>
-  \<img src="images/GooglePhotoTakeoutOrgnizerLogo.png" alt="Google Photo Takeout Organizer　Logo" width="200"/\>
-\</p\>
+<p align="center">
+  <img src="images/GooglePhotoTakeoutOrgnizerLogo.png" alt="Google Photo Takeout Organizer　Logo" width="200"/>
+</p>
 Google Photo Takeout Organizer は、Google Takeout からエクスポートされた写真や動画ファイルを、撮影日時に基づいて自動的に整理し、年/月ごとのフォルダ構造にコピーするツールです。これにより、膨大な量のメディアファイルを効率的に管理し、アクセスしやすくすることができます。
 
 -----
