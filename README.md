@@ -129,6 +129,18 @@ YYYY-MM-DD HH:MM:SS,ms - LEVEL - MESSAGE
   * **基本的な使い方**: [【神ツール降臨】Google Takeoutデータを爆速整理！　Google Photo Takeout Organizer　整理後のデータ活用法からGoogleフォトAI検索術まで完全ガイド！](https://youtu.be/eP3ssksn3Yw_id_2)
 
 -----
+## 🛠️ サポート・不具合報告について
+
+「動画通りに動かない」「エラーで止まってしまう」といった場合は、以下の窓口までお気軽にご連絡ください。
+
+* **メール窓口 (推奨)**: [tomyhome21@smarteasypos.net](mailto:tomyhome21@smarteasypos.net)
+    * 原因特定のため、出力先フォルダにあるログファイル（`google_takeout_organizer.log`）を添付してお送りください。
+    * エラー画面のスクリーンショットを併せてお送りいただくと、より迅速な対応が可能です。
+* **GitHub Issues**: [https://github.com/tomyhome21/GooglePhotoTakeoutOrganizer/issues](https://github.com/tomyhome21/GooglePhotoTakeoutOrganizer/issues)
+    * 開発者の方や、GitHubアカウントをお持ちの方はこちらをご利用ください。
+* **YouTube コメント欄**: 
+    * 解説動画のコメント欄でも受け付けております。
+-----
 
 ## ⚠️ 注意事項
 
